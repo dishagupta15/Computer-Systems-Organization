@@ -8,7 +8,7 @@ follows. First, the even elements, if any, are inserted first and sorted in asce
 are inserted and sorted in ascending order too. Note that numbers can be repeated. For example, if we have a 
 list of 5 elements: 5 5 4 3 2 3 1 then the output of your function, printed on the screen, will be: 2 4 1 3 3 5 5.
 
-2. Fibonacci sequence: Your second function is called find_fibonacci(). It takes two positive numbers x and y where x < y. 
+2. Fibonacci Sequence: Your second function is called find_fibonacci(). It takes two positive numbers x and y where x < y. 
 The function must print all the Fibonacci series between x and y (not including x and y). Fibonacci is a series 
 of numbers in which each number is the sum of the two preceding numbers. It starts as: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, etc.
 So, if x= 5 and y = 20 then your function must print on the screen: 8 13. Both x and y will be positive numbers less 
